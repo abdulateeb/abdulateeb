@@ -70,14 +70,11 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.hackerrank.com/profile/abdulateeb5932" target="_blank">
+  <a href="https://www.hackerrank.com/profile/abdulateeb5932" target="blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="28" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/abdulateeb/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdulateeb/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@abdulateeb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="28" alt="youtube logo"  />
   </a>
 </div>
 
