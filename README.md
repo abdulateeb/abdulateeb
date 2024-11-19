@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate about transforming the agricultural sector through innovative, tech-driven solutions. With a focus on Machine Learning, Data Science, and Data Structures & Algorithms, I continuously expand my knowledge and skills through hands-on projects and internships. Proficient in key libraries and frameworks, including TensorFlow, Scikit-learn, PyTorch, Keras, Matplotlib, NumPy, and Pandas.</p>
+<p align="left">A strong interest in Machine Learning, Cloud computing, Data Science, and Data Structures & Algorithms has driven my continuous expansion of knowledge and skills through hands-on experience in projects and internships. Libraries and frameworks such as TensorFlow, Scikit-learn, PyTorch, Keras, Matplotlib, NumPy, and Pandas are actively utilized.</p>
 
 ###
 
