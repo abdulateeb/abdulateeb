@@ -5,7 +5,8 @@
 <p align="left">A strong interest in Machine Learning, Cloud computing, Data Science, and Data Structures & Algorithms has driven my continuous expansion of knowledge and skills through hands-on experience in projects and internships. Libraries and frameworks such as TensorFlow, Scikit-learn, PyTorch, Keras, Matplotlib, NumPy, and Pandas are actively utilized.</p>
 
 ###
-
+💻 Operating Systems:
+Windows                  8 hrs 46 mins       █████████████████████████   100.0%
 <div align="center">
 </div>
 
