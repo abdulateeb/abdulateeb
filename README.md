@@ -4,7 +4,12 @@
 
 <p align="left">I have a strong interest in Machine Learning, Cloud computing, Data Science, and Data Structures & Algorithms has driven my continuous expansion of knowledge and skills through hands-on experience in projects and internships. Libraries and frameworks such as TensorFlow, Scikit-learn, PyTorch, Keras, Matplotlib, NumPy, and Pandas are actively utilized.
   
-Beyond academics, I am dedicated to staying updated with the latest trends in technology and contributing to meaningful projects that drive positive impact.</p> 
+Beyond academics, I am dedicated to staying updated with the latest trends in technology and contributing to meaningful projects that drive positive impact
+
+📧 To contact me -> abdulateeb5932@gmail.com</p> 
+
+
+
 
 <div align="center">
   <a href="https://www.hackerrank.com/profile/abdulateeb5932" target="blank" style="margin: 0 10px;">
