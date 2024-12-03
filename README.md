@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋🏻 I am Abdul Ateeb</h1>
+<h1 align="center">Hello 👋🏻</h1>
 
 ###
 
-<p align="left">I have a strong interest in Machine Learning, Cloud computing, Data Science, and Data Structures & Algorithms has driven my continuous expansion of knowledge and skills through hands-on experience in projects and internships. Libraries and frameworks such as TensorFlow, Scikit-learn, PyTorch, Keras, Matplotlib, NumPy, and Pandas are actively utilized.
+<p align="left">I have interest in Machine Learning, Cloud computing, Data Science, and Data Structures & Algorithms has driven my continuous expansion of knowledge and skills through hands-on experience in projects and internships. Libraries and frameworks such as TensorFlow, Scikit-learn, PyTorch, Keras, Matplotlib, NumPy, and Pandas are actively utilized.
   
 Beyond academics, I am dedicated to staying updated with the latest trends in technology and contributing to meaningful projects that drive positive impact
 
