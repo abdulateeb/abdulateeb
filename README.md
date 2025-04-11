@@ -1,10 +1,3 @@
-<h1 align="center"></h1>
-
-###
-
-<p align="left">
-📧 To contact me -> abdulateeb5932@gmail.com</p> 
-
 <div align="center">
 </div>
 
