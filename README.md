@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://www.hackerrank.com/profile/abdulateeb5932" target="blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="28" alt="hackerrank logo"/>
+  <a href="https://www.hackerrank.com/profile/abdulateeb5932" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35" alt="HackerRank"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdulateeb/" target="blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"/>
+  <a href="https://www.linkedin.com/in/abdulateeb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/abdulateeb/" target="blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=flat" height="28" alt="leetcode logo"/>
+  <a href="https://leetcode.com/u/abdulateeb/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="LeetCode"/>
   </a>
 </div>
